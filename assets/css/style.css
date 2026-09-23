@@ -29,3 +29,17 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+main {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+section {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
